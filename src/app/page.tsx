@@ -12,7 +12,7 @@ export default function Home() {
           </h1>
           <h2 className="text-lg md:text-4xl w-full md:w-3/4">
             an aspiring <span className="text-primary">software developer</span>{" "}
-            and currently a third year engineering student at{" "}
+            and currently a forth year engineering student at{" "}
             <span className="text-primary">
               Manipal Institute of Technology
             </span>
